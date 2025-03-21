@@ -1,0 +1,5 @@
+# Required libraries for AI-powered Resume Screening and Ranking App
+streamlit
+PyPDF2
+pandas
+scikit-learn
