@@ -47,7 +47,3 @@ AI-Resume-Screening-and-Ranking-App is an AI-powered system designed to automate
    ```
 
 
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
